@@ -42,7 +42,7 @@ This project demonstrates a beautifully styled **static desktop-only website** u
 
 ## 🌅 Visual Preview
 
-![Fantasy Website Layout](https://via.placeholder.com/800x400.png?text=Website+Fantasy+Preview)
+![Fantasy Website Layout](screencapture-127-0-0-1-5500-bakry-Website-index-html-2024-11-27-19_17_06.png)
 
 This image showcases the **hero section**, **navigation**, and **footer**—all tailored for a seamless, professional look.
 
